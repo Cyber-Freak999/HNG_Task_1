@@ -26,8 +26,8 @@ def get_user():
         'current_day': current_day,
         'utc_time': utc_time.strftime('%Y-%m-%dT%H:%M:%SZ'),
         'track': track,
-        'github_file_url': 'https://github.com/username/repo/blob/main/file_name.ext',
-        'github_repo_url': 'https://github.com/username/repo', 
+        'github_file_url': 'https://github.com/Cyber-Freak999/HNG_Task_1/blob/main/app.py',
+        'github_repo_url': 'https://github.com/Cyber-Freak999/HNG_Task_1/tree/main', 
         'status_code': 200
     }
 
